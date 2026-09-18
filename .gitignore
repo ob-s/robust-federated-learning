@@ -146,6 +146,14 @@ venv.bak/
 # mkdocs documentation
 /site
 
+.venv/
+__pycache__/
+*.pyc
+data/
+logs/
+models/
+.ipynb_checkpoints/
+
 # mypy
 .mypy_cache/
 .dmypy.json
